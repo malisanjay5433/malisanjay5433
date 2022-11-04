@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [dezerv.](https://testflight.apple.com/join/U7P73CC6)
 
-- 🌱 I’m currently learning **Explore more about iOS | Flutter |Android**
+- 🌱 I’m currently learning **Explore more about iOS | Flutter | Android | Ionic | Capacitor **
 
 - 📝 I regularly write articles on [https://medium.com/@sanjaymali](https://medium.com/@sanjaymali)
 
