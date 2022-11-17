@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://
   .com/_connectsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/_connectsanjay?logo=twitter&style=for-the-badge" alt="_connectsanjay" /></a> </p>
 
-- 🔭 I’m currently working on [@ClarkSource]
+- 🔭 I’m currently working on @ClarkSource
 
 - 🌱 I’m currently learning **Explore more about iOS | Flutter | Android | Ionic | Capacitor **
 
