@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at [Clark](https://github.com/ClarkSource)
 
-- 🌱 I’m currently learning **Explore more about iOS | Flutter | Android | Ionic | Capacitor **
+- 🌱 I’m learning about ** Flutter | iOS | Android | Capacitor | App Automation **
 
-- 📝 I regularly write articles on [https://medium.com/@sanjaymali](https://medium.com/@sanjaymali)
+- 📝 I write articles on [https://medium.com/@sanjaymali](https://medium.com/@sanjaymali)
 
-- 💬 Ask me about **iOS | Flutter |Android**
+- 💬 Ask me about **iOS | Flutter | Android**
 
 - 📫 How to reach me **malisanjay5433@gmail.com**
 
