@@ -1,6 +1,6 @@
 ![logo](https://github.com/malisanjay5433/malisanjay5433/blob/main/cover.gif)
 <h1 align="center">Hi 👋, I'm Sanjay Mali</h1>
-<h3 align="center">A passionate Mobile Engineer from India</h3>
+<h3 align="center">A passionate Mobile Engineer</h3>
 <img align= "right" alt= "coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://
   .com/_connectsanjay" target="blank"><img src="https://img.shields.io/twitter/follow/_connectsanjay?logo=twitter&style=for-the-badge" alt="_connectsanjay" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **malisanjay5433@gmail.com**
 
-- 📄 Know about my experiences **built over 15+ products so far as single dependency** 
+- 📄 Know about my experiences **built over 15+ products
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
